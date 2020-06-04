@@ -4,7 +4,6 @@ import m_buscador
 import m_tablero
 from m_fichas import valores_letras
 
-hola = 0
 puntos_jugador = 0
 puntos_maquina = 0
 AN = 4 # Este es el ancho de los botones
